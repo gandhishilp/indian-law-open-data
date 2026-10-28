@@ -18,8 +18,7 @@ For bulk access, use the tar archives and Parquet files. Individual PDF and JSON
 
 #### Update cadence (planned)
 
-- Judgments: Supreme Court twice a month; High Courts daily.
-- Acts and the Constitution: weekly.
+- Judgments, Acts and the Constitution: updated at least every two months.
 
 ### Structure of the data in the bucket (planned)
 

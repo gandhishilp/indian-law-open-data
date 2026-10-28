@@ -42,7 +42,7 @@ Planned content:
 - Supreme Court of India judgments and High Court judgments, with case details, judgment date and full text.
 - Dates and versions. When a provision is amended, omitted or repealed, the earlier text is planned to be kept, with the dates it applied, and not deleted. A repealed Act stays in the collection, with the date it stopped being in force.
 
-Planned update schedule: Acts weekly; judgments periodically. No release dates are set.
+Planned update schedule: at least every two months, for judgments, Acts and the Constitution. No release dates are set.
 
 Every record is planned to carry three things, so that it can be checked at the original source:
 
